@@ -1,0 +1,177 @@
+{
+    "message": "Success",
+    "result": [{
+        "message": "Success",
+        "input": "Screenshot_20210527-154608_WhatsApp.jpg",
+        "prediction": [{
+                "label": "Username",
+                "xmin": 254,
+                "ymin": 42,
+                "xmax": 473,
+                "ymax": 87,
+                "score": 0.52954185,
+                "ocr_text": "MITACS"
+            },
+            {
+                "label": "Username",
+                "xmin": 508,
+                "ymin": 308,
+                "xmax": 835,
+                "ymax": 349,
+                "score": 0.8341743,
+                "ocr_text": "~Shubham Goyal"
+            },
+            {
+                "label": "Username",
+                "xmin": 1038,
+                "ymin": 514,
+                "xmax": 1193,
+                "ymax": 550,
+                "score": 0.97553873,
+                "ocr_text": "~Isshita"
+            },
+            {
+                "label": "Username",
+                "xmin": 724,
+                "ymin": 954,
+                "xmax": 905,
+                "ymax": 991,
+                "score": 0.9725346,
+                "ocr_text": "~Anshika"
+            },
+            {
+                "label": "Username",
+                "xmin": 719,
+                "ymin": 1163,
+                "xmax": 874,
+                "ymax": 1198,
+                "score": 0.97373235,
+                "ocr_text": "~Isshita"
+            },
+            {
+                "label": "Username",
+                "xmin": 1012,
+                "ymin": 1484,
+                "xmax": 1193,
+                "ymax": 1517,
+                "score": 0.9671866,
+                "ocr_text": "~Anshika"
+            },
+            {
+                "label": "Username",
+                "xmin": 507,
+                "ymin": 1852,
+                "xmax": 661,
+                "ymax": 1887,
+                "score": 0.98115826,
+                "ocr_text": "~Isshita"
+            },
+            {
+                "label": "Username",
+                "xmin": 944,
+                "ymin": 2208,
+                "xmax": 1195,
+                "ymax": 2254,
+                "score": 0.9849564,
+                "ocr_text": "~Shruti Priya"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 90,
+                "ymin": 310,
+                "xmax": 473,
+                "ymax": 347,
+                "score": 0.8405373,
+                "ocr_text": "+91 94666 03427"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 91,
+                "ymin": 519,
+                "xmax": 473,
+                "ymax": 555,
+                "score": 0.98149127,
+                "ocr_text": "+91 87088 86113"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 116,
+                "ymin": 614,
+                "xmax": 318,
+                "ymax": 649,
+                "score": 0.8627734,
+                "ocr_text": "+91 6900"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 90,
+                "ymin": 958,
+                "xmax": 473,
+                "ymax": 995,
+                "score": 0.96201164,
+                "ocr_text": "+91 95703 28630"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 90,
+                "ymin": 1166,
+                "xmax": 473,
+                "ymax": 1204,
+                "score": 0.97758967,
+                "ocr_text": "+91 87088 86113"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 90,
+                "ymin": 1486,
+                "xmax": 473,
+                "ymax": 1524,
+                "score": 0.93673515,
+                "ocr_text": "+91 95703 28630"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 90,
+                "ymin": 1855,
+                "xmax": 472,
+                "ymax": 1893,
+                "score": 0.8322258,
+                "ocr_text": "+91 87088 86113"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 90,
+                "ymin": 2214,
+                "xmax": 162,
+                "ymax": 2249,
+                "score": 0.954597,
+                "ocr_text": "+91"
+            },
+            {
+                "label": "Phone_Number",
+                "xmin": 337,
+                "ymin": 2214,
+                "xmax": 474,
+                "ymax": 2250,
+                "score": 0.61008495,
+                "ocr_text": "73502"
+            }
+        ],
+        "page": 0,
+        "request_file_id": "c620d753-5d10-4570-9b8b-c493604acbd2",
+        "filepath": "uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg",
+        "id": "4a0b3905-c226-11eb-acea-422f34be951a",
+        "rotation": 0
+    }],
+    "signed_urls": {
+        "uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg": {
+            "original": "https://nnts.imgix.net/uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg?expires=1622489934&or=0&s=7bcf8210cced67da3ae355d83f5f034a",
+            "original_compressed": "https://nnts.imgix.net/uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg?auto=compress&expires=1622489934&or=0&s=65c9cf1a95c68cb749cab89378551739",
+            "thumbnail": "https://nnts.imgix.net/uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg?auto=compress&expires=1622489934&w=240&s=2e75ed75a3638da62f062572dfbfa2f0",
+            "acw_rotate_90": "https://nnts.imgix.net/uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg?auto=compress&expires=1622489934&or=270&s=bf06a53bb6a5f069cacbf901c046260a",
+            "acw_rotate_180": "https://nnts.imgix.net/uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg?auto=compress&expires=1622489934&or=180&s=669b54eb8475d842c03dfbad4e04de8e",
+            "acw_rotate_270": "https://nnts.imgix.net/uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg?auto=compress&expires=1622489934&or=90&s=d0a1b6d9e432e6ae557d7b650cd18045",
+            "original_with_long_expiry": "https://nnts.imgix.net/uploadedfiles/195b5ec8-24fc-411d-8de1-d97736db950c/PredictionImages/43797208.jpeg?expires=1638027534&or=0&s=b9f66cacb0106c24294258f965ab9319"
+        }
+    }
+}
